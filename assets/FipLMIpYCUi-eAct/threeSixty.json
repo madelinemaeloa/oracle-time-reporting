@@ -1,0 +1,57 @@
+{
+  "version": "3.64.27845.0",
+  "course_id": "6QPSpTaCsIl",
+  "title": "Oracle Clock In Simulation",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5W3XxQCI5lV",
+      "title": "Click ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6rfj895dViO",
+      "title": "Click ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6pn3pzJjJrA",
+      "title": "Click ",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5frvZb5ALkb",
+      "title": "Click ",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6iPCb6GNXsG",
+      "title": "Scroll the mouse wheel",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6CNOILGDfrH",
+      "title": "Click ",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6csirtNeh8U",
+      "title": "Untitled Slide",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

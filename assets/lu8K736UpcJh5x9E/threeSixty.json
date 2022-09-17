@@ -1,0 +1,72 @@
+{
+  "version": "3.64.27845.0",
+  "course_id": "6CYs75CcA4H",
+  "title": "Clock Out, Validation, and Submission Simulation",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "63fkev3Sazg",
+      "title": "Click ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6rXOSPZ223B",
+      "title": "Click ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5wkJQIUwnNc",
+      "title": "Scroll the mouse wheel",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6PdssYbOqKu",
+      "title": "Click ",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5j8Zq8c6nu3",
+      "title": "Click ",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6EzKL3z9yJE",
+      "title": "Click ",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6BiB0U98YkH",
+      "title": "Click ",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5hTaEa0ldod",
+      "title": "Click ",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6ggSX2Vs5OK",
+      "title": "Click ",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6awJuiXydjR",
+      "title": "Untitled Slide",
+      "scene_index": "1.10"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
